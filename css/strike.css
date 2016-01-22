@@ -1,0 +1,8 @@
+body {
+	padding-top: 51px;
+	padding-bottom: 40px;
+}
+
+.striped .even{
+  background-color: #f9f9f9;
+}
